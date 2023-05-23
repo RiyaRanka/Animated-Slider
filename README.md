@@ -12,7 +12,7 @@ The Animated Slider is compatible with modern web browsers, including:
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Edge
- For best results, ensure that you are using the latest version of your preferred browser.
+- For best results, ensure that you are using the latest version of your preferred browser.
 
 # Credits
 The Animated Slider was created with help of <a href= "https://unsplash.com/" target="_blank">Unsplash</a>.
